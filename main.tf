@@ -1,4 +1,4 @@
 resource "azurerm_resource_group" "ankit" {
-  name = "ankit121"
+  name = "ankit122"
   location = "East US"
 }
